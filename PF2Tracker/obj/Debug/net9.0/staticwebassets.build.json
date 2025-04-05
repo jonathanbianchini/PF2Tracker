@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "DSnFM0aRrWGKdE/37PJyGWn7MH1pQZKBF5NdPJAH9iI=",
+  "Source": "PF2Tracker",
+  "BasePath": "_content/PF2Tracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PF2Tracker/wwwroot",
+      "Source": "PF2Tracker",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/",
+      "BasePath": "_content/PF2Tracker",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/ltfymkbdjf-m3i3bdihab.gz",
+      "SourceId": "PF2Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PF2Tracker",
+      "RelativePath": "css/site#[.{fingerprint=m3i3bdihab}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/css/site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0morthz031",
+      "Integrity": "qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/s2d5i6dls5-0zxysp9h6c.gz",
+      "SourceId": "PF2Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PF2Tracker",
+      "RelativePath": "js/site#[.{fingerprint=0zxysp9h6c}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/js/site.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ye2rprz7mm",
+      "Integrity": "+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/u27cmjfpxv-yft3qz4av0.gz",
+      "SourceId": "PF2Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PF2Tracker",
+      "RelativePath": "index#[.{fingerprint=yft3qz4av0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ge9ud7yqqw",
+      "Integrity": "GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/css/site.css",
+      "SourceId": "PF2Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/",
+      "BasePath": "_content/PF2Tracker",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3i3bdihab",
+      "Integrity": "Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/index.html",
+      "SourceId": "PF2Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/",
+      "BasePath": "_content/PF2Tracker",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yft3qz4av0",
+      "Integrity": "MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/js/site.js",
+      "SourceId": "PF2Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/",
+      "BasePath": "_content/PF2Tracker",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0zxysp9h6c",
+      "Integrity": "fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/ltfymkbdjf-m3i3bdihab.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004784688995"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 18:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 18:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/ltfymkbdjf-m3i3bdihab.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 18:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.m3i3bdihab.css",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/ltfymkbdjf-m3i3bdihab.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004784688995"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 18:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3i3bdihab"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.m3i3bdihab.css",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "308"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 18:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3i3bdihab"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yh3+QnoXtdlM+oNK+Iqe3l36jS9WX8YCkOyH1pTdQDo="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.m3i3bdihab.css.gz",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/ltfymkbdjf-m3i3bdihab.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 04 Mar 2025 18:34:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3i3bdihab"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qPkpOmxyqf/Vudu8VgrwQYqabk3qNXLpZ7QlkTHHiuE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/u27cmjfpxv-yft3qz4av0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001703577513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/u27cmjfpxv-yft3qz4av0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM="
+        }
+      ]
+    },
+    {
+      "Route": "index.yft3qz4av0.html",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/u27cmjfpxv-yft3qz4av0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001703577513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yft3qz4av0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE="
+        }
+      ]
+    },
+    {
+      "Route": "index.yft3qz4av0.html",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1356"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yft3qz4av0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MsK0c437XWejoic1so3cjpz4PQGGdtrUWjmc17n0ZzE="
+        }
+      ]
+    },
+    {
+      "Route": "index.yft3qz4av0.html.gz",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/u27cmjfpxv-yft3qz4av0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "586"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yft3qz4av0"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GNT53kMuKick5n1ZfgP6gk1IqbH/fNR+QqHn1D0C9RM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.0zxysp9h6c.js",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/s2d5i6dls5-0zxysp9h6c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000741839763"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1347"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zxysp9h6c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.0zxysp9h6c.js",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zxysp9h6c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.0zxysp9h6c.js.gz",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/s2d5i6dls5-0zxysp9h6c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0zxysp9h6c"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/s2d5i6dls5-0zxysp9h6c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000741839763"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1347"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/wwwroot/js/site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fFDQWtYGvRYnLQRj8vYVvkbgpDIUQICc/Y9LJ5GaEek="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "/Users/Jonathan/Desktop/PF2Tracker/PF2Tracker/obj/Debug/net9.0/compressed/s2d5i6dls5-0zxysp9h6c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1347"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 25 Mar 2025 19:42:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+jmk/z7y2w0yRBavE3NvFeMlIapPBmtWfc1bwLmj9Uk="
+        }
+      ]
+    }
+  ]
+}
